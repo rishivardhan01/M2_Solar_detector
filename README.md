@@ -1,6 +1,8 @@
 # M2_Solar_detector
-# Code Quality[code quality]https://api.codiga.io/project/32944/score/svg
-# Code Grade[code grade]https://api.codiga.io/project/32944/status/svg
+# Code Quality
+![code quality](https://api.codiga.io/project/32944/score/svg)
+# Code Grade
+![code grade](https://api.codiga.io/project/32944/status/svg)
 # Codacy
 # Cppcheck Analysis
 ## Inaction
