@@ -4,6 +4,7 @@
 # Code Grade
 ![code grade](https://api.codiga.io/project/32944/status/svg)
 # Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/71daeddb928348de8d82cabe28e97379)](https://www.codacy.com/gh/rishivardhan01/M2_Solar_detector/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rishivardhan01/M2_Solar_detector&amp;utm_campaign=Badge_Grade)
 # Cppcheck Analysis
 ## Inaction
 # Off Mode
