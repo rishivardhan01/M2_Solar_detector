@@ -14,4 +14,6 @@
 # On Mode
 ![onmode1](https://user-images.githubusercontent.com/63336586/164479187-9bbab57d-3a29-4171-9033-44d4c9f4d55b.png)
 
+# Build on Linux
+[![Build-Linux CI](https://github.com/rishivardhan01/M2_Solar_detector/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/rishivardhan01/M2_Solar_detector/actions/workflows/Build%20on%20Linux.yml)
  
